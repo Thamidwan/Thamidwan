@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thami dwane</h1>
-<h3 align="center">A passionate frontend and backend developer from South Africa</h3>
+<h3 align="center">A passionate frontend and backend developer Looking for a placement</h3>
 <img  align="right" alt="Coding" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" >
 
 - 🌱 I’m currently learning **python,php**
