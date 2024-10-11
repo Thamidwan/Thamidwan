@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **php**
 
-- 💬 Ask me about **java,html,css,javascript,kotlin,linux,python & Django framework**
+- 💬 Ask me about **java,html,css,javascript,typescript,kotlin,linux,python,Django & Reactjs framework**
 
 - 📫 How to reach me **thamidwane27@icloud.com**
 
