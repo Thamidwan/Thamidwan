@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **php**
 
-- 💬 Ask me about **java,Springnoot framework,html,css,javascript,typescript,kotlin,linux,python,Django & Reactjs framework**
+- 💬 Ask me about **java,Springboot framework,html,css,javascript,typescript,kotlin,linux,python,Django & Reactjs framework**
 
 - 📫 How to reach me **thamidwane27@icloud.com**
 
