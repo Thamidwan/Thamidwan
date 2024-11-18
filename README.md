@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend and backend Developer</h3>
 <img  align="right" alt="Coding" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRCgqE_hUBnFrHvPhkEG3EtBFHtsk3VNskRA&usqp=CAU" >
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **AEM**
 
 - 💬 Ask me about **java,Springboot framework,html,css,javascript,typescript,kotlin,linux,python,Django & Reactjs framework**
 
